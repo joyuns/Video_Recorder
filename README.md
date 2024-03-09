@@ -8,6 +8,7 @@
 -ESC = stop program.<br/>
 -Mouse Leftbutton = zoom in.<br/>
 <span style="color:red">-Check the storage path when using it.</span>
+
 # 시연
 
 -동영상 녹화시 빨간점 표시<br/>

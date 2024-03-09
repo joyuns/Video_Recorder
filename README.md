@@ -20,7 +20,7 @@ ${\textsf{\color{red}-Check the storage path when using it.}}$
   <img src="https://github.com/joyuns/Video_Recorder/assets/90548771/07b8e6cc-368c-4ade-8a55-29c60aa6ceb2">
 </p>
 <p align="center">
-  <img src="(https://github.com/joyuns/Video_Recorder/assets/90548771/4f6090bb-6bb9-4a49-8963-5832c4556878">
+  <img src="https://github.com/joyuns/Video_Recorder/assets/90548771/4f6090bb-6bb9-4a49-8963-5832c4556878">
 </p>
 -Display red points when recording a video recording<br/>
 

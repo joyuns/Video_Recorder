@@ -4,8 +4,14 @@
 -This repository contained simple video recoder using OpenCV.
 
 # How To Operaite
--Space bar = starting recoding.
--ESC = stop program.
--Mouse Leftbutton = zoom in.
+-Space bar = starting recoding.<br/>
+-ESC = stop program.<br/>
+-Mouse Leftbutton = zoom in.<br/>
+<spen style="color red">-Check the storage path when using it.</spen>
+# 시연
 
-# 
+-동영상 녹화시 빨간점 표시<br/>
+
+-줌인 기능<br/>
+
+# 변수 설명

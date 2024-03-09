@@ -4,8 +4,8 @@
 -This repository contained simple video recoder using OpenCV.
 
 # How To Operaite
--Space bar = starting recoding
--ESC = stop program
--Mouse Leftbutton = zoom in 
+-Space bar = starting recoding.
+-ESC = stop program.
+-Mouse Leftbutton = zoom in. 
 
 # 

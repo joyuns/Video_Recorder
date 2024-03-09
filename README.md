@@ -7,7 +7,7 @@
 -Space bar = starting recoding.<br/>
 -ESC = stop program.<br/>
 -Mouse Leftbutton = zoom in.<br/>
-${\textsf{\color{magenta}Magenta}}$
+${\textsf{\color{red}-Check the storage path when using it.}}$
 
 # 시연
 

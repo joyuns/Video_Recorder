@@ -14,5 +14,3 @@ ${\textsf{\color{red}-Check the storage path when using it.}}$
 -Display red points when recording a video recording<br/>
 
 -Zoom in funcion<br/>
-
-# Variable description

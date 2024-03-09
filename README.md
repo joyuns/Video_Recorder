@@ -7,7 +7,8 @@
 -Space bar = starting recoding.<br/>
 -ESC = stop program.<br/>
 -Mouse Leftbutton = zoom in.<br/>
-<span style="color:red">-Check the storage path when using it.</span>
+<span style="color:red"> 글씨색 변경 </span>
+
 
 # 시연
 

@@ -7,8 +7,7 @@
 -Space bar = starting recoding.<br/>
 -ESC = stop program.<br/>
 -Mouse Leftbutton = zoom in.<br/>
-<span style="color:red"> 글씨색 변경 </span>
-
+${\textsf{\color{magenta}Magenta}}$
 
 # 시연
 

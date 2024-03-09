@@ -9,10 +9,10 @@
 -Mouse Leftbutton = zoom in.<br/>
 ${\textsf{\color{red}-Check the storage path when using it.}}$
 
-# 시연
+# Demonstration
 
--동영상 녹화시 빨간점 표시<br/>
+-Display red points when recording a video recording<br/>
 
--줌인 기능<br/>
+-Zoom in funcion<br/>
 
-# 변수 설명
+# Variable description

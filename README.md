@@ -7,7 +7,7 @@
 -Space bar = starting recoding.<br/>
 -ESC = stop program.<br/>
 -Mouse Leftbutton = zoom in.<br/>
-<spen style="color:red">-Check the storage path when using it.</spen>
+<span style="color:red">-Check the storage path when using it.</span>
 # 시연
 
 -동영상 녹화시 빨간점 표시<br/>
